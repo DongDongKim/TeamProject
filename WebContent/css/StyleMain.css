@@ -1,0 +1,41 @@
+/* 초기화 */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* 중앙 정렬 */
+body {
+	margin: 0 auto;
+	width: 92em;
+}
+
+table {
+	width: 52em;
+}
+
+td {
+	padding: 1em;
+}
+
+#Header {
+    border: 0.5em solid greenyellow;
+    border-radius: 20em;
+    background: greenyellow;
+    margin: 1em 20em;
+    width: 52em;
+    text-align: center;
+    color: white;
+}
+
+#Navigation {
+	margin: 0 20em;
+}
+
+#Section {
+	margin: 0 20em;
+}
+
+textarea {
+	width: 50em;
+}
